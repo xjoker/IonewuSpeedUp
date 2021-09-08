@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31612.314
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ionewuSpeedUp", "ionewuSpeedUp\ionewuSpeedUp.csproj", "{6313B1DF-D631-4C9E-9E37-390AFA46785A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6313B1DF-D631-4C9E-9E37-390AFA46785A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6313B1DF-D631-4C9E-9E37-390AFA46785A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6313B1DF-D631-4C9E-9E37-390AFA46785A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6313B1DF-D631-4C9E-9E37-390AFA46785A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D06C7CB8-A2CD-43DF-BCC2-CC7A2506D27C}
+	EndGlobalSection
+EndGlobal
